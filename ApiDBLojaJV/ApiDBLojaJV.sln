@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDBLojaJV", "ApiDBLojaJV\ApiDBLojaJV.csproj", "{AB13536A-69B3-458E-BCBC-9A60FDD9545B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB13536A-69B3-458E-BCBC-9A60FDD9545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB13536A-69B3-458E-BCBC-9A60FDD9545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB13536A-69B3-458E-BCBC-9A60FDD9545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB13536A-69B3-458E-BCBC-9A60FDD9545B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2921425-B795-4005-AB5E-73DB230C5D98}
+	EndGlobalSection
+EndGlobal

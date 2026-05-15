@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Vendas</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+
+    <header class="topo">
+        <h1>Medici<span>Shop</span></h1>
+    </header>
+
+    <main class="conteudo">
+
+        <div class="lista-clientes">
+            <ul id="cliente-lista"></ul>
+        </div>
+
+        <div class="container">
+            <h2>Cadastrar Cliente</h2>
+
+            <label>Nome</label>
+            <input type="text" id="nome-cliente" />
+
+            <label>Email</label>
+            <input type="text" id="email-cliente" />
+
+            <button onclick="cadastrarCliente()">Cadastrar</button>
+            <button onclick="atualizarCliente()">Atualizar</button>
+
+            <a href="vendas.html">Registrar Venda</a>
+        </div>
+
+    </main>
+
+</body>
+</html>

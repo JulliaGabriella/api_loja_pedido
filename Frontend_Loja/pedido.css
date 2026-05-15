@@ -1,0 +1,136 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dcdcdc;
+}
+
+/* TOPO */
+.topo{
+    background-color: #061120;
+    padding: 25px;
+    text-align: center;
+}
+
+.topo h1{
+    color: white;
+    font-size: 3rem;
+}
+
+.topo span{
+    color: orange;
+}
+
+/* PRINCIPAL */
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+
+    padding: 40px;
+}
+
+/* LISTA */
+.lista-pedidos{
+    flex: 2;
+}
+
+/* UL */
+#pedido-lista{
+    list-style: none;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+/* CARD */
+#pedido-lista li{
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    color: #1b2a41;
+    font-size: 1rem;
+}
+
+/* BOTÕES DOS CARDS */
+#pedido-lista button{
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: orange;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* FORM */
+.container{
+    width: 400px;
+
+    background-color: #f3f3f3;
+
+    padding: 30px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 15px;
+}
+
+/* TÍTULO */
+.container h2{
+    font-size: 2.3rem;
+    color: #1b2a41;
+}
+
+/* INPUTS */
+.container input,
+#select{
+    padding: 14px;
+
+    border-radius: 8px;
+
+    border: 1px solid #bbb;
+
+    font-size: 1rem;
+}
+
+/* BOTÕES */
+.botoes{
+    display: flex;
+    gap: 10px;
+}
+
+.botoes button{
+    flex: 1;
+
+    padding: 14px;
+
+    border: none;
+
+    border-radius: 8px;
+
+    background-color: orange;
+
+    font-weight: bold;
+
+    cursor: pointer;
+}

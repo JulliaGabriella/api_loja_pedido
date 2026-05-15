@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Vendas</title>
+    <link rel="stylesheet" href="pedido.css">
+    <script src="pedidos.js" defer></script>
+</head>
+<body>
+
+    <header class="topo">
+        <h1>Medici <span>Shop</span></h1>
+    </header>
+
+    <main class="principal">
+
+        <section class="lista-pedidos">
+            <ul id="pedido-lista"></ul>
+        </section>
+
+        <section class="container">
+            <h2>Cadastrar Pedido</h2>
+
+            <label>Descrição</label>
+            <input type="text" id="descricao-pedido" />
+
+            <label>Valor</label>
+            <input type="text" id="valor-pedido" />
+
+            <div class="botoes">
+                <button onclick="cadastrarPedido()">Cadastrar</button>
+                <button onclick="atualizarPedido()">Atualizar</button>
+            </div>
+
+            <select name="selecione" id="select">
+                <option value="">Selecione um Cliente</option>
+            </select>
+        </section>
+
+    </main>
+
+</body>
+</html>
