@@ -1,23 +1,37 @@
-# 🛒 Sistema de Clientes e Vendas
+<h1 align="center">💙 Sistema de Clientes e Vendas</h1>
 
-Projeto desenvolvido com foco em gerenciamento de clientes e registro de vendas utilizando ASP.NET, SQL Server e Frontend Web.
+<p align="center">
+Projeto desenvolvido com foco em <b>gerenciamento de clientes</b><br>
+e <b>registro de vendas</b> utilizando ASP.NET, SQL Server e Frontend Web ✨
+</p>
 
 ---
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=💙+Backend+com+ASP.NET+e+SQL+Server;💻+Frontend+Web+com+JavaScript;✨+Gerenciamento+de+clientes+e+vendas)](https://git.io/typing-svg)
+
+</div>
+
 ## 🚀 Tecnologias Utilizadas
 
-### Backend
+<div align="center">
 
-* C#
-* ASP.NET Web API
-* Entity Framework
-* SQL Server
+<img src="https://img.shields.io/badge/C%23-3B82F6?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-### Frontend
+<img src="https://img.shields.io/badge/ASP.NET-2563EB?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-* HTML5
-* CSS3
-* JavaScript
+<img src="https://img.shields.io/badge/Entity_Framework-1D4ED8?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-60A5FA?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -44,27 +58,27 @@ Projeto-Loja/
 
 ## ⚙️ Funcionalidades
 
-✅ Cadastro de clientes
-✅ Atualização de clientes
-✅ Exclusão de clientes
-✅ Registro de vendas
-✅ Integração com banco SQL Server
-✅ API REST em ASP.NET
+✅ Cadastro de clientes  
+✅ Atualização de clientes  
+✅ Exclusão de clientes  
+✅ Registro de vendas  
+✅ Integração com banco SQL Server  
+✅ API REST em ASP.NET  
 
 ---
 
 ## 🖥️ Interface
 
-### Tela de Clientes
+### 👥 Tela de Clientes
 
-* Listagem de clientes
-* Cadastro rápido
-* Atualização e exclusão
+- Listagem de clientes
+- Cadastro rápido
+- Atualização e exclusão
 
-### Tela de Vendas
+### 🛒 Tela de Vendas
 
-* Registro de vendas
-* Integração com clientes cadastrados
+- Registro de vendas
+- Integração com clientes cadastrados
 
 ---
 
@@ -72,7 +86,11 @@ Projeto-Loja/
 
 Banco utilizado:
 
-* SQL Server
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL_Server-3B82F6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</div>
 
 Exemplo de criação:
 
@@ -122,15 +140,26 @@ ou utilizar a extensão Live Server no VS Code.
 
 ## 📌 Melhorias Futuras
 
-* Autenticação de usuários
-* Dashboard administrativo
-* Relatórios de vendas
-* Deploy em nuvem
-* Responsividade mobile
-* Integração com JWT
+- 🔐 Autenticação de usuários
+- 📊 Dashboard administrativo
+- 📈 Relatórios de vendas
+- ☁️ Deploy em nuvem
+- 📱 Responsividade mobile
+- 🛡️ Integração com JWT
 
 ---
 
-## 👨‍💻 Autor
+## 💙 Sobre o Projeto
 
-Desenvolvido por Júlia Gabriela Figueiredo Travassos 🚀
+<p align="center">
+Projeto desenvolvido para praticar integração entre frontend e backend,<br>
+consumo de API REST e manipulação de banco de dados SQL Server ✨
+</p>
+
+---
+
+<div align="center">
+
+💙 Desenvolvido por Júlia Gabriela
+
+</div>
